@@ -83,7 +83,7 @@ canvas {
 }
 .clash-card {
   background: white;
-  width: 450px;
+  width: 330px;
   display: inline-block;
   margin: auto;
   border-radius: 19px;
@@ -94,7 +94,7 @@ canvas {
 }
 
 .barbarian {
-  height: 650px;
+  height: 560px;
   background: rgb(4, 36, 47);
   background: linear-gradient(
     90deg,
